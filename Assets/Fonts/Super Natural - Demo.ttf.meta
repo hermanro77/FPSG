@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0cd316bc10c296e4b8819679b22029de
+timeCreated: 1510437449
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Super Natural - Demo
+  fontNames:
+  - Super Natural - Demo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

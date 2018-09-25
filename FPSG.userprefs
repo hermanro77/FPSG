@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyMove.js">
+    <Files>
+      <File FileName="Assets\Scripts\GunFire.js" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\HandGunDamage.js" Line="17" Column="92" />
+      <File FileName="Assets\Scripts\CoursScript.js" Line="4" Column="28" />
+      <File FileName="Assets\Scripts\AmmoCountDisplay.js" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\AmmoPickUp.js" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\PlayerCasting.js" Line="8" Column="33" />
+      <File FileName="Assets\Scripts\OpenDoor001.js" Line="8" Column="22" />
+      <File FileName="Assets\Scripts\Reloading.js" Line="51" Column="2" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PickUpM9.js" Line="26" Column="28" />
+      <File FileName="Assets\Scripts\ZScore25.js" Line="6" Column="2" />
+      <File FileName="Assets\Scripts\ZScore50.js" Line="5" Column="31" />
+      <File FileName="Assets\Scripts\ZScore100.js" Line="5" Column="31" />
+      <File FileName="Assets\Scripts\PickUpMK5.js" Line="29" Column="37" />
+      <File FileName="Assets\Scripts\GunFireMK5.js" Line="14" Column="21" />
+      <File FileName="Assets\Scripts\ReloadingMK5.js" Line="46" Column="4" />
+      <File FileName="Assets\Scripts\AmmoPickUpMK5.js" Line="12" Column="25" />
+      <File FileName="Assets\Scripts\EnemyMove.js" Line="12" Column="1" />
+      <File FileName="Assets\Scripts\EnemyScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyLook.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ZombieFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GlobalHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HealthMonitor.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
